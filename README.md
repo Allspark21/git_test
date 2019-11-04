@@ -1,0 +1,1 @@
+This is Allspark's first git project!
